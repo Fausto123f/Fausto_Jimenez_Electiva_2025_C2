@@ -1574,12 +1574,6 @@
 		(color 0 0 0 0)
 		(uuid "ae8b9af5-037a-41ee-ac84-fc8daead21f7")
 	)
-	(junction
-		(at 191.77 45.72)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "dc1cb8c6-d46c-4dab-b13a-761a6a3c7233")
-	)
 	(wire
 		(pts
 			(xy 160.02 71.12) (xy 170.18 71.12)
@@ -2022,16 +2016,6 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 45.72) (xy 187.96 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4dff2c73-4327-4878-a22c-6f794606d96c")
-	)
-	(wire
-		(pts
 			(xy 66.04 123.19) (xy 73.66 123.19)
 		)
 		(stroke
@@ -2382,7 +2366,7 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 43.18) (xy 191.77 45.72)
+			(xy 191.77 41.91) (xy 191.77 48.26)
 		)
 		(stroke
 			(width 0)
@@ -2559,16 +2543,6 @@
 			(type default)
 		)
 		(uuid "c09b4441-3b04-4701-9617-ae00c7aeed16")
-	)
-	(wire
-		(pts
-			(xy 191.77 45.72) (xy 191.77 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c8355604-bb8c-4c9a-9e9a-db2baa750c66")
 	)
 	(wire
 		(pts
@@ -3472,7 +3446,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 187.96 45.72 0)
+		(at 191.77 41.91 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3481,7 +3455,7 @@
 		(fields_autoplaced yes)
 		(uuid "627bf9b7-902b-4c3b-b70a-9de385caeb87")
 		(property "Reference" "#PWR017"
-			(at 187.96 49.53 0)
+			(at 191.77 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3490,7 +3464,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 187.96 40.64 0)
+			(at 191.77 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3498,7 +3472,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 187.96 45.72 0)
+			(at 191.77 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3507,7 +3481,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 187.96 45.72 0)
+			(at 191.77 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3516,7 +3490,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 187.96 45.72 0)
+			(at 191.77 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4966,7 +4940,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -4977,7 +4950,7 @@
 		)
 		(uuid "ce707804-ba57-4306-981f-c51fb195c146")
 		(property "Sheetname" "DRIVER-485"
-			(at 177.8 47.2309 0)
+			(at 172.72 47.498 0)
 			(effects
 				(font
 					(size 1.905 1.905)

@@ -15982,7 +15982,7 @@
 	)
 	(symbol
 		(lib_id "Device:Antenna")
-		(at 194.31 52.07 0)
+		(at 195.58 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15991,7 +15991,7 @@
 		(fields_autoplaced yes)
 		(uuid "f6fc7658-946a-4c9d-b0ef-67f92e39a5cf")
 		(property "Reference" "AE1"
-			(at 196.85 51.4349 0)
+			(at 198.12 51.4349 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16000,7 +16000,7 @@
 			)
 		)
 		(property "Value" "WIFI-BT"
-			(at 196.85 53.9749 0)
+			(at 198.12 53.9749 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16009,7 +16009,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 194.31 52.07 0)
+			(at 195.58 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16018,7 +16018,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 194.31 52.07 0)
+			(at 195.58 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16027,7 +16027,7 @@
 			)
 		)
 		(property "Description" "Antenna"
-			(at 194.31 52.07 0)
+			(at 195.58 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
